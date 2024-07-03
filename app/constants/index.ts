@@ -42,6 +42,21 @@ export const manufacturers = [
   "Volvo",
 ];
 
+export const fuels = [
+  {
+    title: "Fuel",
+    value: "",
+  },
+  {
+    title: "Gas",
+    value: "Gas",
+  },
+  {
+    title: "Electricity",
+    value: "Electricity",
+  },
+];
+
 export const footerLinks = [
     {
         title: "About",
